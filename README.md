@@ -20,3 +20,5 @@ Write Labortage Presentation about this ...
 Links:
 
 https://hackaday.com/2018/07/30/hands-on-with-new-arduino-fpga-board-mkr-vidor-4000
+
+https://www.exp-tech.de/plattformen/arduino/9178/arduino-mkr-vidor-4000
