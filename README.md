@@ -9,6 +9,8 @@ Start with https://github.com/vidor-libraries ... (TODO) and convert Verilog to 
 
 Schematics: https://content.arduino.cc/assets/vidor_c10_sch.zip
 
+TODO: DXF & Hardware Features
+
 ---
 
 Display Image over Micro-HDMI ...
