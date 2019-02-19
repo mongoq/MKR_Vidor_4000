@@ -9,7 +9,7 @@ Start with https://github.com/vidor-libraries ... (TODO) and convert Verilog to 
 
 Schematics: https://content.arduino.cc/assets/vidor_c10_sch.zip
 
-TODO: DXF & Hardware Features
+TODO: DXF & Hardware Features - https://store.arduino.cc/arduino-vidor-4000
 
 ---
 
