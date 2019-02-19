@@ -7,6 +7,8 @@ Getting started with FPGA/Arduino Hybrid Board
 
 Start with https://github.com/vidor-libraries ... (TODO) and convert Verilog to VHDL code ...
 
+Schematics: https://content.arduino.cc/assets/vidor_c10_sch.zip
+
 ---
 
 Display Image over Micro-HDMI ...
