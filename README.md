@@ -28,3 +28,5 @@ https://hackaday.com/2018/07/30/hands-on-with-new-arduino-fpga-board-mkr-vidor-4
 https://www.exp-tech.de/plattformen/arduino/9178/arduino-mkr-vidor-4000
 
 https://gumstixgadgets.blogspot.com/2018/05/of-fpgas-and-arduino-mkr-vidor-4000.html
+
+https://www.elektormagazine.com/news/arduino-vidor-an-fpga-for-everyone (video!)
