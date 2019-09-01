@@ -1,5 +1,5 @@
 # MKR Vidor 4000
-Getting started with FPGA/Arduino Hybrid Board
+Getting started with the FPGA/Arduino Hybrid Board
 
 ![Image](https://www.exp-tech.de/media/image/65/02/4b/abx00022_iso_2_600x600.jpg)
 
