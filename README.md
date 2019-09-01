@@ -6,6 +6,8 @@ Getting started with the FPGA/Arduino Hybrid Board
 ---
 
 Camera - https://github.com/techyian/MMALSharp/wiki/OmniVision-OV5647-Camera-Module
+MIPI CSI-2
+
 ![Image](https://camo.githubusercontent.com/87cf06f20b934845ae26d7afe75abe8031db1e25/68747470733a2f2f63646e2e737061726b66756e2e636f6d2f2f6173736574732f70617274732f382f322f372f382f31313836382d3033612e6a7067)
 
 ---
