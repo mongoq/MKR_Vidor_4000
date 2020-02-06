@@ -40,6 +40,8 @@ https://www.elektormagazine.com/news/arduino-vidor-an-fpga-for-everyone (video!)
 
 ---
 
+# Walkthrough (TODO)
+
 dos2unix installieren
 
 1.) nios2_command_shell.sh 
