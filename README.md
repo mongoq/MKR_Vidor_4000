@@ -56,3 +56,7 @@ https://forum.arduino.cc/index.php?topic=602341.0 Minatsut …
 
 Patchen à la https://tomono.tokyo/2019/02/24/7436/ (Japanisch)
 http://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Ftomono.tokyo%2F2019%2F02%2F24%2F7436%2F
+
+---
+
+https://www.mouser.de/applications/unlocking-future-with-mkr-vidor/
