@@ -60,3 +60,9 @@ http://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Ftomono.tok
 ---
 
 https://www.mouser.de/applications/unlocking-future-with-mkr-vidor/
+
+---
+
+Pin Planner Files
+
+https://maker.pro/arduino/tutorial/how-to-program-the-arduino-mkr-vidor-4000s-fpga-with-intel-quartus-ide
